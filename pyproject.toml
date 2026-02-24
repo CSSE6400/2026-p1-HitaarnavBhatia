@@ -1,9 +1,9 @@
 [project]
-name = "practical01"
+name = "practical-01"
 version = "0.1.0"
-description = ""
+description = "\"\""
 authors = [
-    {name = "Hitaarnav Bhatia", email = "h.bhatia@uq.edu.au"}
+    {name = "{name = \"Hitaarnav Bhatia\", email = \"s4898402@uq.edu.au}"}
 ]
 readme = "README.md"
 requires-python = ">=3.14"
